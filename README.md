@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="ANIME SEARCH" src="https://github.com/user-attachments/assets/f776e426-72fd-4ebc-8c83-1e6f7df31e9d" />
+
 An Android app that fetches and displays anime series using the **Jikan API**.  
 Users can explore top-rated anime, view details including trailers, and enjoy offline access through Room Database.
 
@@ -15,7 +17,7 @@ Core Functionality
   - Graceful handling of API failures, network unavailability, and database issues  
 
 Bonus Features
-**Offline Mode with Room Database**  
+- **Offline Mode with Room Database**  
   - Stores anime data locally  
   - Allows browsing offline  
   - Syncs with server when back online  
@@ -35,13 +37,12 @@ Tech Stack
 
 
 **Getting Started**
-git clone https://github.com/username/seekho-anime-app.git
-Open Android Studio → Open an existing project → Select the project folder
-Sync Gradle,Build & Run
-Run the app on emulator/device
+- git clone https://github.com/username/seekho-anime-app.git
+- Open Android Studio → Open an existing project → Select the project folder
+- Sync Gradle,Build & Run the app on emulator/device
 
 Assumptions Made
 
-Some anime may not have trailers → poster is shown instead.
-Offline syncing may have a delay based on internet restoration.
-API rate limits from Jikan may cause delays if too many requests are made.
+- Some anime may not have trailers → poster is shown instead.
+- Offline syncing may have a delay based on internet restoration.
+- API rate limits from Jikan may cause delays if too many requests are made.
