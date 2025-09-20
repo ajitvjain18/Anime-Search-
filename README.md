@@ -1,5 +1,7 @@
 <img width="1920" height="1080" alt="ANIME SEARCH" src="https://github.com/user-attachments/assets/f776e426-72fd-4ebc-8c83-1e6f7df31e9d" />
 
+Download APK - https://github.com/ajitvjain18/Anime-Search-/releases/tag/v1.0
+
 An Android app that fetches and displays anime series using the **Jikan API**.  
 Users can explore top-rated anime, view details including trailers, and enjoy offline access through Room Database.
 
