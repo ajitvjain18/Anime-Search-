@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Anime Search</string>
+    <string name="episode_count">%d Episodes</string>
+    <string name="episodes_unknown">Ongoing / N/A</string>
+    <string name="anime_poster">Anime Poster</string>
+    <string name="play_trailer">Play Trailer</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="rating_icon">Rating icon</string>
+    <string name="episodes_icon">Episodes icon</string>
+    <string name="genres">Genres</string>
+    <string name="plot_synopsis">Plot / Synopsis</string>
+    <string name="main_cast">Main Cast</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
